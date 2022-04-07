@@ -17,6 +17,23 @@ export const fontSize = {
   'small-mobile': '12px'
 }
 
+export const blogFontSize = {
+  'h2-desktop': '32px',
+  'h2-mobile': '26px',
+
+  'h3-desktop': '32px',
+  'h3-mobile': '26px',
+
+  'h4-desktop': '26px',
+  'h4-mobile': '20px',
+
+  'h5-desktop': '26px',
+  'h5-mobile': '20px',
+
+  'p-desktop': '20px',
+  'p-mobile': '18px'
+}
+
 export const fontWeight = {
   bold: '700',
   regular: '400',
