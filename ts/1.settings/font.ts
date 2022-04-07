@@ -31,7 +31,13 @@ export const blogFontSize = {
   'h5-mobile': '20px',
 
   'p-desktop': '20px',
-  'p-mobile': '18px'
+  'p-mobile': '18px',
+
+  'li-desktop': '20px',
+  'li-mobile': '18px',
+
+  'blockquote-desktop': '30px',
+  'blockquote-mobile': '24px'
 }
 
 export const fontWeight = {
