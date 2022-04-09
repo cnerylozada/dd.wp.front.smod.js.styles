@@ -14,10 +14,16 @@ export const fontSize = {
   'paragraph-mobile': '14px',
 
   'small-desktop': '12px',
-  'small-mobile': '12px'
+  'small-mobile': '12px',
+
+  'xsmall-desktop': '14px',
+  'xsmall-mobile': '10px'
 }
 
 export const blogFontSize = {
+  'h1-desktop': '32px',
+  'h1-mobile': '26px',
+
   'h2-desktop': '32px',
   'h2-mobile': '26px',
 
